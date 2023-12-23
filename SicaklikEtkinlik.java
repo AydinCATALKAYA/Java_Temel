@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class SicakliEtkinlik {
+public class SicaklikEtkinlik {
     public static void main(String[] args) {
         int heat ;
         Scanner input = new Scanner(System.in);
