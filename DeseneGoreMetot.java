@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DeseneGöreMetot {
+public class DeseneGoreMetot {
     public static void  islemyap(int sayi){
         System.out.print(sayi + " ");
 
